@@ -15,7 +15,7 @@ In order to install this application you should clone the github repo found here
 
 # Screenshots 
 Walkthrough Video of working api routes
-<a href="https://watch.screencastify.com/v/GBxBiHzqgJqURtDKM928">
+<a href="https://watch.screencastify.com/v/GBxBiHzqgJqURtDKM928">Click Here for Video</a>
 
 
 # Built With
