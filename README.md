@@ -1,7 +1,9 @@
 # <h1 align="center">Social Neworking API</h1>
 
 # Description
-This application is designed as a blog style website where the user is able to create an account in order to login. Once logged in they are able to create a post and comment on the post as well. The user is also presented with the ability to view all posts.
+This application is designed as a social media startup
+I WANT an API for my social network that uses a NoSQL database
+SO THAT my website can handle large amounts of unstructured data
 
 # Table of Contents
   * [Installation](#Installation)
